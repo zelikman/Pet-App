@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pet App</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="create_button">Create Profile</string>
+    <string name="delete_button">Delete Profile</string>
+
+</resources>
